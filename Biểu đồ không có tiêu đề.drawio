@@ -1689,6 +1689,15 @@
         <mxCell id="xRJwUlZHKiiUu28EqU35-24" value="Add Post" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="990" width="63" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="xRJwUlZHKiiUu28EqU35-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="XOiD42g1zXGtxkOwQhyG-175">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="-820" as="sourcePoint" />
+            <mxPoint y="-860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xRJwUlZHKiiUu28EqU35-26" value="Search Bar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="-835" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
