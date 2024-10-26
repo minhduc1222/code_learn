@@ -61,21 +61,6 @@
             <mxPoint x="168.89130434782606" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IQmVVY19-9sHavrMNvbj-260" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="3v_G94L6314WxcJYYTk_-95" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="60" y="-740" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IQmVVY19-9sHavrMNvbj-261" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="3v_G94L6314WxcJYYTk_-96" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="60" y="-740" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IQmVVY19-9sHavrMNvbj-262" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1.011;entryY=0.902;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3v_G94L6314WxcJYYTk_-97" target="IQmVVY19-9sHavrMNvbj-258" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="30" y="-720" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3v_G94L6314WxcJYYTk_-104" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="190" y="-570" width="170" height="130" as="geometry" />
         </mxCell>
@@ -723,12 +708,6 @@
         <mxCell id="IQmVVY19-9sHavrMNvbj-257" value="Filter out threads with selected tag only()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="530" y="-1223" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IQmVVY19-9sHavrMNvbj-258" value="Filter out threads with selected tag only()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-180" y="-760" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="IQmVVY19-9sHavrMNvbj-259" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1.002;entryY=0.59;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3v_G94L6314WxcJYYTk_-93" target="IQmVVY19-9sHavrMNvbj-258" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="IQmVVY19-9sHavrMNvbj-265" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="80" y="-1040" width="800" height="950.9410903033088" as="geometry" />
         </mxCell>
@@ -892,6 +871,29 @@
         </mxCell>
         <mxCell id="QwDbD24M2NLMRJx-hTCf-3" value="Link to get help page" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="IQmVVY19-9sHavrMNvbj-265">
           <mxGeometry x="505" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IQmVVY19-9sHavrMNvbj-258" value="Filter out threads with selected tag only()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="IQmVVY19-9sHavrMNvbj-265" vertex="1">
+          <mxGeometry x="174" y="190" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IQmVVY19-9sHavrMNvbj-262" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="IQmVVY19-9sHavrMNvbj-265" source="3v_G94L6314WxcJYYTk_-97" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="219" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQmVVY19-9sHavrMNvbj-259" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.4;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" parent="IQmVVY19-9sHavrMNvbj-265" source="3v_G94L6314WxcJYYTk_-93" target="IQmVVY19-9sHavrMNvbj-258" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQmVVY19-9sHavrMNvbj-260" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.413;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" parent="IQmVVY19-9sHavrMNvbj-265" source="3v_G94L6314WxcJYYTk_-95" edge="1" target="IQmVVY19-9sHavrMNvbj-258">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-20" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQmVVY19-9sHavrMNvbj-261" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.433;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" parent="IQmVVY19-9sHavrMNvbj-265" source="3v_G94L6314WxcJYYTk_-96" edge="1" target="IQmVVY19-9sHavrMNvbj-258">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-20" y="300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="IQmVVY19-9sHavrMNvbj-391" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="775" y="100" width="370" height="490.00435077480586" as="geometry" />
