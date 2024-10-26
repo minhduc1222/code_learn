@@ -436,7 +436,7 @@
             <mxPoint x="420" y="-1080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IQmVVY19-9sHavrMNvbj-128" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="IQmVVY19-9sHavrMNvbj-128" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.015;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="QwDbD24M2NLMRJx-hTCf-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="505" y="-940" as="sourcePoint" />
             <mxPoint x="540" y="-1050" as="targetPoint" />
@@ -721,7 +721,7 @@
           <mxGeometry y="60" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IQmVVY19-9sHavrMNvbj-257" value="Filter out threads with selected tag only()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="713" y="-1120" width="240" height="30" as="geometry" />
+          <mxGeometry x="530" y="-1223" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IQmVVY19-9sHavrMNvbj-258" value="Filter out threads with selected tag only()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-180" y="-760" width="240" height="30" as="geometry" />
@@ -889,6 +889,9 @@
         </mxCell>
         <mxCell id="QwDbD24M2NLMRJx-hTCf-2" value="Get help" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="IQmVVY19-9sHavrMNvbj-265">
           <mxGeometry x="400" y="100" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QwDbD24M2NLMRJx-hTCf-3" value="Link to get help page" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="IQmVVY19-9sHavrMNvbj-265">
+          <mxGeometry x="505" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IQmVVY19-9sHavrMNvbj-391" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="775" y="100" width="370" height="490.00435077480586" as="geometry" />
@@ -1503,8 +1506,8 @@
             <mxPoint x="259.02500000000003" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QwDbD24M2NLMRJx-hTCf-3" value="Link to get help page" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="483" y="-1080" width="130" height="30" as="geometry" />
+        <mxCell id="QwDbD24M2NLMRJx-hTCf-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3v_G94L6314WxcJYYTk_-17" target="IQmVVY19-9sHavrMNvbj-120">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
